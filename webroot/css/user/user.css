@@ -1,0 +1,18 @@
+td a:visited { color:white; }
+
+.container{
+    padding: 0 10%;
+}
+
+label{
+    font-size: 15px;
+}
+
+.fix-button{
+    padding-bottom: 5%;
+}
+
+.label-grid{
+    margin-bottom: 0;
+    max-width: 10%;
+}
